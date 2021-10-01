@@ -1,0 +1,1 @@
+{"name":"Local: check_for_substring","url":"d:\\Code\\C++\\DS Algo\\Strings\\check_for_substring.cpp","tests":[{"id":1631197102557,"input":"hello\nhel","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\C++\\DS Algo\\Strings\\check_for_substring.cpp","group":"local","local":true}

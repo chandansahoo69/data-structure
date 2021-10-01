@@ -1,0 +1,1 @@
+{"name":"Local: one string rotation of other","url":"d:\\Code\\C++\\DS Algo\\Strings\\one string rotation of other.cpp","tests":[{"id":1631199796276,"input":"hello\nohe","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\C++\\DS Algo\\Strings\\one string rotation of other.cpp","group":"local","local":true}
