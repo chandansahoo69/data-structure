@@ -1,0 +1,1 @@
+{"name":"Local: Roman_to_integer","url":"d:\\Code\\C++\\DS Algo\\Strings\\Roman_to_integer.cpp","tests":[{"id":1632549775580,"input":"MCMXCIV","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\C++\\DS Algo\\Strings\\Roman_to_integer.cpp","group":"local","local":true}
